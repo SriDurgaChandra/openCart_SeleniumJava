@@ -1,0 +1,4 @@
+13:45:51.488 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer details
+13:45:56.241 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Continue
+13:45:56.318 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected msg
+13:45:56.323 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest -  ****   Finished TC_001   **** 
